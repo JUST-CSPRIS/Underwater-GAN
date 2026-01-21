@@ -1,0 +1,17 @@
+
+# dataset info
+dataset_name: "EUVP" 
+dataset_path: "/home/xie/xcl/paper/GAN/Paired/Paired/"
+checkpoint_dir: "checkpoints测试/"   # 模型保存路径
+# image info
+chans: 3
+im_width: 256
+im_height: 256
+
+# other params
+val_interval: 1000 # steps
+ckpt_interval: 20  # epochs
+
+
+
+ 
